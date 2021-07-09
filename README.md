@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on AppSec 
 - 🤔 I’m looking for help with Clouds native 
 - 💬 Ask me about Anything 
-- 📫 How to reach me: [Twitter](https://twitter.com/abhinavsejpal) 
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: I am half finished
 
