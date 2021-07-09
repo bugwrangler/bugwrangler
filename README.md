@@ -1,5 +1,7 @@
 ### Hi there, thanks for visiting my profile 👋
 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=bugwrangler.bugwrangler)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on DevSecOps Automation
