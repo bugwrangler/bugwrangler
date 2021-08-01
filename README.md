@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 [![Abhinav GitHub stats](https://github-readme-stats.vercel.app/api?username=BUGWRANGLER&theme=dark)](https://github-readme-stats.vercel.app/api?username=BUGWRANGLER&theme=dark)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bugwrangler&theme=dark)](https://git.io/streak-stats)
+
 If you like what I do and share my knowledge with the community to create a better world, maybe consider buying me a coffee...☕ 
 
 <a href="https://www.buymeacoffee.com/bugwrangler" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
